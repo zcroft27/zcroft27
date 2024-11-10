@@ -8,7 +8,7 @@ I have interests in software engineering and systems, and would like to either p
 **Languages:** Java, C, Golang, Python, SQL, HTML/CSS, Racket, x86 AT&T Assembly, TypeScript, JavaScript  
 **Preferred Environments:** IntelliJ, CLion, GoLand, VSCode, DrRacket, Vim  
 **OS:** Windows, Linux (Ubuntu, WSL)  
-**Misc:** Codespaces, Maven, Postman, Azure, Nix    
+**Misc:** Codespaces, Maven, Postman, Azure, Docker, Nix   
 
 # Hobbies
 I play trumpet and have traveled to South Africa touring with an orchestra. I also am a runner and have raced in the 2024 Falmouth Road Race and 2024 Cambridge Half Marathon. I also like to play chess and had a long phase of solving rubik's cubes. I like to spend time in Cape Cod during the summer and travel (Countries so far: South Africa, Netherlands, Canada).
